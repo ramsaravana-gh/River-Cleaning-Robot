@@ -31,7 +31,7 @@ An Arduino-based Bluetooth-controlled prototype designed to collect floating deb
 
 ## Circuit Diagram
 
-![Circuit Diagram](Circuit%20diagram.png)
+![Circuit Diagram](river_cleaning_robot_circuit.png)
 
 ---
 
